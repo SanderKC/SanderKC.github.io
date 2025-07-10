@@ -1,35 +1,42 @@
 ---
 layout: page
-title: Branding iron
-description: For use on wood
-img: assets/img/brandingIron/1.jpg
+title: Custom weight
+description: For education in the course MEA (Metrology, Electronics and Automation)
+img: assets/img/1_project/1.jpg
 importance: 1
-category: Fun
+category: Work
 related_publications: false
-date: 2024-06-10
+date: 2024-30-11
 ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brandingIron/2.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1_project/2.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The finished wood branding iron.
+    The finished custom weight.
 </div>
 
-This was a quick project, completed over two afternoons of work. The logo was made first using a CNC router with 1/16 inch and 1/32 inch 2-flute bits, before finishing on the lathe to give the head of the brand its final shape. The 8 mm steel rod was glued into a wooden block, before the handle was shaped on the lathe, sanded, and finished with Australian oil. Afterwards, the head was threaded on, and the project was finished.
+This project was developed upon request for use in the MEA course as an educational tool. It is designed using a combination of 3D printing and laser cutting for rapid prototyping and manufacturing. The system is powered by an Arduino Nano, with a custom PCB simplifying the electronic circuit.
+Key components include:
 
+- HX711 (amplifier)
+- Load cell
+- OLED display
+- Arduino Nano
+
+The software is accessible via LabVIEW or any IDE that supports USB communication. Additionally, the OLED display serves as a standalone visualization tool, enabling operation without a computer — only a power supply is required. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brandingIron/1.jpg" title="CNC cut logo" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1_project/1.jpg" title="CNC cut logo" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brandingIron/4.jpg" title="handle interface" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1_project/4.jpg" title="handle interface" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brandingIron/3.jpg" title="handle" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1_project/3.jpg" title="handle" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -40,7 +47,7 @@ And the only thinge left to do now was to test it
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/brandingIron/5.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/1_project/5.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
