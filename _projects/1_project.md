@@ -6,7 +6,7 @@ img: assets/img/1_project/1.jpg
 importance: 1
 category: Work
 related_publications: false
-date: 2024-30-11
+date: 2024-11-30
 ---
 
 <div class="row">
