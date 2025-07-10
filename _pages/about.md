@@ -2,24 +2,30 @@
 layout: about
 title: About
 permalink: /
-subtitle: Mechanical enigineer, Maker, Scuba diver, Husbond and Father. 
+subtitle: Mechanical enigineer, maker & outdoor enthusiast 
 
 profile:
   align: right
   image: profilePicture.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Aarhus</p>
+    <p>Horsens</p>
     <p>Denmark</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi, my name is Jakob H. Lahn. I am finishing my bachelor's degree in mechanical engineering from Aarhus University in the summer of 2024. My areas of interest include mechatronics, robotics, design, manufacturing, and fabrication. I enjoy the design process, especially when a design is quickly iterated and refined through rapid prototyping and fine-tuning of the details.
 
-Beyond my professional work, I am an avid maker, always experimenting with new techniques and projects. I have experience in woodworking, metalworking, electronics and PCB design, programming of microcontrollers, CNC machining, and 3D printing. All these techniques are now part of my toolbox, which I use both personally and professionally. As part of my maker hobbies, I am a member of [Open Space Aarhus.](https://osaa.dk/)
+Hi, my name is Sander K. christensen. I am a mechanical engineer witj a bachelor's degreee from Aarhus University (Januar 2024). My passion lies in the intersection of mechatronics, robotics, design, and manufacturing — especially where ideas can move quickly from concept to prototype.
 
-I am also a certified scuba diver and use scuba diving as a way to be social, relax, and refocus my mind.
+I thrive in environments where hands-on problem solving and iteration are key. Whether it's refining a mechanism through rapid prototyping or fine-tuning a design for production, I enjoy turning ideas into tangible, working solutions.
 
-Feel free to explore my [projects,](/al-folio/projects/) and get a glimpse into the work that excites me. From school and work-related projects to personal creations, this site is a reflection of my journey as an engineer, maker, and lifelong learner.
+Outside my academic work, I’m a dedicated maker. I spend my time experimenting across a wide range of disciplines — from woodworking, and electronics/PCB design, to microcontroller programming and 3D printing. These skills aren’t just hobbies — they’re tools I actively bring into both personal and professional projects.
+
+Feel free to explore my  and get a glimpse into the work that excites me. From school and work-related projects to personal creations, this site is a reflection of my journey as an engineer, maker, and lifelong learner.
+
+Feel free to explore my [projects,](/al-folio/projects/) to get a closer look at the work that drives me. From academic and professional challenges to personal builds and experiments, these projects reflect my journey as an engineer, maker and lifelong learner — always curious, always building, and always learning.
+
+
+
