@@ -25,7 +25,7 @@ Outside my academic work, I’m a dedicated maker. I spend my time experimenting
 
 Feel free to explore my  and get a glimpse into the work that excites me. From school and work-related projects to personal creations, this site is a reflection of my journey as an engineer, maker, and lifelong learner.
 
-Feel free to explore my [projects,](/al-folio/projects/) to get a closer look at the work that drives me. From academic and professional challenges to personal builds and experiments, these projects reflect my journey as an engineer, maker and lifelong learner — always curious, always building, and always learning.
+Feel free to explore my [projects,](/projects/) to get a closer look at the work that drives me. From academic and professional challenges to personal builds and experiments, these projects reflect my journey as an engineer, maker and lifelong learner — always curious, always building, and always learning.
 
 
 
