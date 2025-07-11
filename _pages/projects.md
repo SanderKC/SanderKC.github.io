@@ -6,6 +6,11 @@ description: This page contains my still growing collection of projects both pro
 nav: true
 nav_order: 1
 horizontal: false
+display_categories:
+  - Work
+  - Fun
+  - Woodworking 
+  - Bettie
 ---
 
 <!-- pages/projects.md -->

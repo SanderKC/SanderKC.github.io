@@ -1,7 +1,7 @@
 ---
 layout: page
-title: DPV
-description: AMI
+title: AMI
+description: 
 img: assets/img/3_project/1.jpg
 importance: 1
 category: Work

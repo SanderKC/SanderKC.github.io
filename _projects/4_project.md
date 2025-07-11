@@ -1,21 +1,23 @@
 ---
 layout: page
-title: GameBoy advance remake
-description: Modding a GameBoy advance
-img: assets/img/Gameboy/new.jpg
+title: Automatic Water & fertilizer system
+description: 
+img: assets/img/4_projects/1.jpg
 importance: 1
 category: Fun
 related_publications: false
-date: 2024-10-12
+date: 2023-01-09
 toc:
   sidebar: left
 ---
 
 <h3>Introduktion</h3>
+
 I have long considered doing some custom modding of older GameBoys, and recently I attended a small retro console fair here in Denmark. There, I purchased an old GameBoy Advance with a Pokémon Sapphire game.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Gameboy/old.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Gameboy/2.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -34,7 +36,7 @@ My full list of components:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Gameboy/Parts.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/4_project/Parts.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -46,7 +48,7 @@ Due to the selected parts, the amount of work to put the modded GameBoy together
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Gameboy/soldering1.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/4_project/soldering1.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -55,7 +57,7 @@ Due to the selected parts, the amount of work to put the modded GameBoy together
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Gameboy/soldering2.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/4_project/soldering2.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -66,7 +68,7 @@ After that, it was mostly a matter of putting the parts in the right spots and s
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Gameboy/Internals.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/4_project/Internals.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -79,7 +81,7 @@ Once the back shell was screwed down, I was left with a fully modded GameBoy Adv
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Gameboy/new.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/4_project/new.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -90,7 +92,7 @@ And it glows!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Gameboy/GID.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/4_project/GID.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
