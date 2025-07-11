@@ -12,22 +12,28 @@ toc:
 ---
 
 <h3>Introduktion</h3>
+My father is a micro-farmer with a lifelong passion for growing more — and more uniquely — than the average person. For as long as I can remember, he has cultivated everything from carrots and potatoes to rare and specialty crops such as blue potatoes, black carrots, and specially ordered flowers, all grown for local restaurants and not typically found in supermarkets.
 
-I have long considered doing some custom modding of older GameBoys, and recently I attended a small retro console fair here in Denmark. There, I purchased an old GameBoy Advance with a Pokémon Sapphire game.
+A few years ago, he received a shipment of flowers that mistakenly included a giant pumpkin seed. That seed sparked a new interest — and eventually a hobby — that drew me in as well. As it turns out, growing a giant pumpkin is practically a science in itself.
+
+I’ve worked alongside my father in the field since I was very young. So, when he asked if I could design a system to automate the watering and fertilization process for his new passion, I was more than happy to take on the challenge.
+
+If you're interested, you can take a look at the [greenhouse](/projects/5_project/)structure I also designed. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Gameboy/2.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/4_project/1.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    The GameBoy advance running the included game.
+    The interface system & the control valve. 
 </div>
 
 <h3>The plan</h3>
-My general plan was to upgrade to a backlit screen and add USB-C charging and a battery to the console. Due to the condition of the console, I also decided to change the shell of the GameBoy. I opted for parts from [funnyplaying](https://funnyplaying.com/) as it was possible to get a shell and laminated IPS screen that didn’t require modifying the shell for the screen to fit.
+My general plan was based on the demands for the system.The greenhouse needed to devided in to 3 section and each section needed to both be able to reseived fertilized and non-fertilized water in the same tubes. Furhtermore the freequenze and lenght of each water-circule also needs to be controlable.
 
-My full list of components:
+I drew out a diagram and procided to pick out the nessary components for the task:
+- [Arduino Mega] (https://ardustore.dk/produkt/arduino-mega-r3-atmega2560-klon-udviklingsboard?srsltid=AfmBOooNGh_wQvUZbswxB2U4urcqqyEFGALF5rxIryue8lOSzxwg-Z_N)
 - [Screen](https://funnyplaying.com/products/3-0-inch-ips-agb-laminated-kit)
 - [Shell](https://funnyplaying.com/products/3-0-inch-ips-agb-laminated-kit)
 - [USB-C / battery mod](https://funnyplaying.com/products/gba-li-ion-rechargeable-battery-typec-module)
