@@ -2,7 +2,7 @@
 layout: page
 title: Greenhouse
 description: A structural design intended for growing a Giant Pumpkin
-img: assets/img/5_projects/1.jpg
+img: assets/img/5_project/1.jpg
 importance: 1
 category: Fun
 related_publications: false

@@ -2,7 +2,7 @@
 layout: page
 title: Automatic Water & fertilizer system
 description: 
-img: assets/img/4_projects/1.jpg
+img: assets/img/4_project/1.jpg
 importance: 1
 category: Fun
 related_publications: false

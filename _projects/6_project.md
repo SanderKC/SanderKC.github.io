@@ -2,7 +2,7 @@
 layout: page
 title: Small windtunnel
 description: An upgrate of existing prototype for education in the course MEA (Metrology, Electronics and Automation)
-img: assets/img/6_projects/1.jpg
+img: assets/img/6_project/1.jpg
 importance: 1
 category: Work
 related_publications: false
