@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Custom weight
+title: Custom weight & Storage
 description: For education in the course MEA (Metrology, Electronics and Automation)
 img: assets/img/1_project/1.jpg
 importance: 1
