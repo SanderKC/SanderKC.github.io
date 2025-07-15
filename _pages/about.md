@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, my name is Sander K. christensen. I am a mechanical engineer witj a bachelor's degreee from Aarhus University (Januar 2024). My passion lies in the intersection of mechatronics, robotics, design, and manufacturing — especially where ideas can move quickly from concept to prototype.
+Hi, my name is Sander K. christensen. I am a mechanical engineer with a bachelor's degreee from Aarhus University (Januar 2024). My passion lies in the intersection of mechatronics, robotics, design, and manufacturing — especially where ideas can move quickly from concept to prototype.
 
 I thrive in environments where hands-on problem solving and iteration are key. Whether it's refining a mechanism through rapid prototyping or fine-tuning a design for production, I enjoy turning ideas into tangible, working solutions.  
 

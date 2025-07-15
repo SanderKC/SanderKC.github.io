@@ -32,22 +32,23 @@ If you're interested, you can take a look at the [greenhouse](/projects/5_projec
 <h3>The plan</h3>
 My general plan was based on the demands for the system.The greenhouse needed to devided in to 3 section and each section needed to both be able to reseived fertilized and non-fertilized water in the same tubes. Furhtermore the freequenze and lenght of each water-circule also needs to be controlable.
 
-I drew out a diagram and procided to pick out the nessary components for the task:
-- [Arduino Mega] (https://ardustore.dk/produkt/arduino-mega-r3-atmega2560-klon-udviklingsboard?srsltid=AfmBOooNGh_wQvUZbswxB2U4urcqqyEFGALF5rxIryue8lOSzxwg-Z_N)
+I drew out a diagram and procided to pick out the nessary electrical components for the task:
+
+- [Arduino_Mega] (https://ardustore.dk/produkt/arduino-mega-r3-atmega2560-klon-udviklingsboard?srsltid=AfmBOooNGh_wQvUZbswxB2U4urcqqyEFGALF5rxIryue8lOSzxwg-Z_N)
+- 2x [Potentiomoter] (https://ardustore.dk/produkt/taper-potmeter)
+- 3x [Buttom] (http://ardustore.dk/produkt/push-button-pbs-110)
+- 1 x [LCD-display] (https://ardustore.dk/produkt/16x2-lcd-display-module-blaa)
+- 1 x [Display-module] (https://ardustore.dk/produkt/display-module-iic-i2c-twi-sp%e2%80%8b%e2%80%8bi-serial-interface)
+- 5 x [LED] (https://ardustore.dk/produkt/flashing-led-5mm)
+- 3 x [Relay] (https://ardustore.dk/produkt/optokobler-relae-2-kanal-5v-low-high-module)
+- 6 x [Valves] (https://arduinotech.dk/shop/solenoid-valve-ac-230v-1-2-straight/?gad_source=1&gad_campaignid=17511696673&gbraid=0AAAAAChom3K2wbgz2aAM3_1Pc-R-oC1uz&gclid=Cj0KCQjw-NfDBhDyARIsAD-ILeCGCwEKkrLYaP_m81hQu3e6KZqgPDZpZA3u_LxhT24rYG5CSJOJpDMaArVsEALw_wcB)'
+
+
 - [Screen](https://funnyplaying.com/products/3-0-inch-ips-agb-laminated-kit)
 - [Shell](https://funnyplaying.com/products/3-0-inch-ips-agb-laminated-kit)
 - [USB-C / battery mod](https://funnyplaying.com/products/gba-li-ion-rechargeable-battery-typec-module)
 - [button](https://funnyplaying.com/products/agb-custom-buttons)
 - [Silicone pads](https://funnyplaying.com/products/replacement-silicone-pads-for-gameboy-advance)
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/4_project/Parts.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The full parts kit.
-</div>
 
 <h3>The work</h3>
 Due to the selected parts, the amount of work to put the modded GameBoy together was minimal. It only took a short Friday afternoon after work. The most complicated part was the soldering needed for the new display overlay controls, which consisted of three wires that allowed the overlay to be controlled with the GBA buttons instead of the touch sensor built into the screen.

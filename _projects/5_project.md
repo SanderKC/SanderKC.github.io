@@ -19,7 +19,7 @@ This was a fun project involving the structural design of a greenhouse. Greenhou
         {% include figure.liquid loading="eager" path="assets/img/5_project/2.jpg" title="Assembled" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5_project/3.jpg" title="Components" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/5_project/5.jpg" title="Components" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
 </div>
 <div class="caption">
@@ -30,7 +30,7 @@ After completing the design process in SolidWorks, we built everything by handâ€
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5_project/4.jpg" title="Side View" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/5_project/6.jpg" title="Side View" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
