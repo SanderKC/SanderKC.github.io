@@ -13,7 +13,7 @@ toc:
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    <div class="mx-auto" style="max-width: 300px;">
+    <div class="mx-auto" style="max-width: 500px;">
       {% include figure.liquid loading="eager" path="assets/img/5_project/2.jpg" title="Side View" class="img-fluid d-block mx-auto rounded z-depth-1" %}
     </div>
   </div>
@@ -22,8 +22,6 @@ toc:
     A rendering of the Cad design. 
 </div>
 
-
-<h3>Introduction</h3>
 This was a fun project involving the structural design of a greenhouse. Greenhouses can be very expensive if bought off the shelf—especially at this size. My father needed a large space, as a giant pumpkin takes up quite a lot of room. The greenhouse is approximately 80 m² and is built using wooden frames and special shielding material to maintain the right climate inside.
 
 
