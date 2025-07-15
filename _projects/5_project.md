@@ -17,7 +17,7 @@ toc:
     </div>
 </div>
 <div class="caption">
-    A happy pumpkin.
+    The plan drawn up in cad.
 </div>
 
 <h3>Introduction</h3>
@@ -30,16 +30,15 @@ This was a fun project involving the structural design of a greenhouse. Greenhou
     </div>
 </div>
 <div class="caption">
-    A happy pumpkin.
+    The final result
 </div>
 
 After completing the design process in SolidWorks, we built everything by hand—and the result speaks for itself. Just take a look at how the pumpkin thrived inside its cozy new home.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5_project/6.jpg" title="Side View" class="img-fluid rounded z-depth-1" %}
+        <div style="max-width: 300px;">
+            {% include figure.liquid loading="eager" path="assets/img/5_project/6.jpg" title="Side View" class="img-fluid rounded z-depth-1" %}
+        </div>
     </div>
-</div>
-<div class="caption">
-    A happy pumpkin.
 </div>
