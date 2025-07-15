@@ -66,9 +66,43 @@
     }
   ],
   "skills": [
-    {
-    }
-  ],
+  {
+    "name": "Prototyping",
+    "keywords": [
+      "3D printing",
+      "Laser cutting",
+      "Rapid prototyping",
+      "Arduino"
+    ]
+  },
+  {
+    "name": "Mechatronics",
+    "keywords": [
+      "Sensor integration",
+      "Actuation systems",
+      "Embedded systems",
+      "Electromechanical design"
+    ]
+  },
+  {
+    "name": "Design Tools",
+    "keywords": [
+      "CAD (OnShape, SolidWorks)",
+      "Schematic design",
+      "PCB layout",
+      "Simulation"
+    ]
+  },
+  {
+    "name": "Project Management",
+    "keywords": [
+      "Defining product requirements",
+      "Deliverable scoping & Milwstone planning",
+      "Price estimates",
+      "Design documentation"
+    ]
+  }
+],
   "languages": [
     {
       "language": "Danish",

@@ -11,7 +11,7 @@ date: 2024-11-30
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    <div class="mx-auto" style="max-width: 500px;">
+    <div class="mx-auto" style="max-width: 400px;">
       {% include figure.liquid loading="eager" path="assets/img/1_project/1.jpg" title="Side View" class="img-fluid d-block mx-auto rounded z-depth-1" %}
     </div>
   </div>
@@ -77,7 +77,7 @@ Once the software was implemented, the final step was to test the system.
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    <div class="mx-auto" style="max-width: 500px;">
+    <div class="mx-auto" style="max-width: 400px;">
       {% include figure.liquid loading="eager" path="assets/img/1_project/7.jpg" title="Side View" class="img-fluid d-block mx-auto rounded z-depth-1" %}
     </div>
   </div>
@@ -91,7 +91,7 @@ Since transporting 16 individual weights from the depot to the classroom can be 
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    <div class="mx-auto" style="max-width: 500px;">
+    <div class="mx-auto" style="max-width: 400px;">
       {% include figure.liquid loading="eager" path="assets/img/1_project/8.jpg" title="Side View" class="img-fluid d-block mx-auto rounded z-depth-1" %}
     </div>
   </div>
