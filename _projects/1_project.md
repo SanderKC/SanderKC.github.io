@@ -10,12 +10,14 @@ date: 2024-11-30
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1_project/1.jpg" title="side view" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="mx-auto" style="max-width: 500px;">
+      {% include figure.liquid loading="eager" path="assets/img/1_project/1.jpg" title="Side View" class="img-fluid d-block mx-auto rounded z-depth-1" %}
     </div>
+  </div>
 </div>
 <div class="caption">
-    The finished custom weight.
+    The final design.
 </div>
 
 <h3>Introduction</h3>
@@ -75,7 +77,7 @@ Once the software was implemented, the final step was to test the system.
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    <div class="mx-auto" style="max-width: 300px;">
+    <div class="mx-auto" style="max-width: 500px;">
       {% include figure.liquid loading="eager" path="assets/img/1_project/7.jpg" title="Side View" class="img-fluid d-block mx-auto rounded z-depth-1" %}
     </div>
   </div>
@@ -88,11 +90,14 @@ Once the software was implemented, the final step was to test the system.
 Since transporting 16 individual weights from the depot to the classroom can be cumbersome, a practical and efficient storage and carrying solution was required. I aimed to make the weights stackable while ensuring they remained stable during transport. The result was the following design:
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1_project/8.jpg" title="CNC cut logo" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-3 mt-md-0">
+    <div class="mx-auto" style="max-width: 500px;">
+      {% include figure.liquid loading="eager" path="assets/img/1_project/8.jpg" title="Side View" class="img-fluid d-block mx-auto rounded z-depth-1" %}
     </div>
+  </div>
+</div>
 <div class="caption">
-    The finished storage design.
+    The Finished storage design.
 </div>
 
 This turned out to be one of the more challenging parts of the project, as I wanted it done properly. I used a lathe to accurately drill threaded holes in the wood to integrate the threaded rods. In the end, the effort paid off—the four finger screws can now be easily removed whenever the weights are needed.
