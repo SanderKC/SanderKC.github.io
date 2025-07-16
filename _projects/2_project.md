@@ -68,15 +68,15 @@ Each electronic part is carefully selected to fulfill a specific function within
 Given the diversity and number of components, integration and wire management are critical. Thoughtful PCB design and the use of a cable chain are essential to maintain order, minimize signal noise, and ensure long-term reliability.
 
 <h3>PCB</h3>
-The PCB is designed in KiCAD specifically as an Arduino Mega shield, serving as the central hub for all electronic components. It features clear, compact routing for stable power and signal distribution. To simplify assembly and maintenance, all connections use JST or pin headers, allowing for quick removal and replacement of individual components. The PCB is design with two planes: One ground and one Power, which is again devided in 12V, 5V & 3.3V.
+The PCB is customed designed in KiCAD specifically as an Arduino Mega shield, serving as the central hub for all electronic components. It features clear, compact routing for stable power and signal distribution. To simplify assembly and maintenance, all connections use JST or pin headers, allowing for quick removal and replacement of individual components. The PCB is design with two planes: One ground and one Power, which is again devided in 12V, 5V & 3.3V.
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2_project/4.jpg" title="Link A" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/2_project/5.jpg" title="Link A" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2_project/5.jpg" title="Link B" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/2_project/6.jpg" title="Link B" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
 </div>
 <div class="caption">
@@ -84,7 +84,8 @@ The PCB is designed in KiCAD specifically as an Arduino Mega shield, serving as 
 </div>
 
 
-<h3>Video</h3>
+<h3>Video representation</h3>
+The video below shows the prototype developed during our bachelor project. Since then, numerous improvements and upgrades have been made across the mechanical, electrical, and software components. The development process is ongoing.
 
 {% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 
