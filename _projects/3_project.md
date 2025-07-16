@@ -55,13 +55,13 @@ Additionally, the customer requested a quick-release solution, allowing the mode
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/2_project/5.jpg" title="Link A" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/2.jpg" title="Link A" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5_project/6.jpg" title="Link B" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/5.jpg" title="Link B" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/6_project/6.jpg" title="Link B" class="img-fluid rounded z-depth-1 custom-img" %}
+        {% include figure.liquid loading="eager" path="assets/img/3_project/6.jpg" title="Link B" class="img-fluid rounded z-depth-1 custom-img" %}
     </div>
 </div>
 <div class="caption">
@@ -70,3 +70,4 @@ Additionally, the customer requested a quick-release solution, allowing the mode
 
 
 <h5>Cable magement & Protection</h5>
+When the AMI is deployed in natural environments for extended periods, several factors can pose risks to the cables. Weather conditions and animals are the primary concerns. In particular, customers have previously experienced issues with rodents damaging the cables. To address this, protective sleeves were selected and implemented. These can be seen in the component image. 
