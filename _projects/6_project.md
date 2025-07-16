@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Small windtunnel
+title: Hallo it worked
 description: For education in the course MEA (Metrology, Electronics and Automation)
 img: assets/img/6_project/1.jpg
 importance: 1
