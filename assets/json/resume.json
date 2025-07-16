@@ -145,13 +145,7 @@
   "references": [
   {
     "name": "Jan Østergaard",
-    "keywords": [
-    "position: Responisple for mechanical produktion",
-    "company: MicroLab",
-    "email: ml@mikrolab.dk",
-    "phone: +45 30 54 45 72",
-    "relationship: Former supervisor at MicroLab"
-    ]
+    "reference": "Former supervisor at MicroLab\nResponsible for mechanical production at MicroLab\nEmail: ml@mikrolab.dk\nPhone: +45 30 54 45 72"
   }
 ]
 }
