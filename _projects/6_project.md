@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hallo it worked
+title: Small Wind tunnel
 description: For education in the course MEA (Metrology, Electronics and Automation)
 img: assets/img/6_project/1.jpg
 importance: 1
@@ -20,5 +20,4 @@ My main role in this project was project mangement and assembly of the final des
 
 <h3>3d printing</h3>
 As 3D print is a great tool for rapid prototyping we used PETG for all the components of the windtunnel. 
-
 

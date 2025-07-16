@@ -84,5 +84,7 @@ The PCB is designed in KiCAD specifically as an Arduino Mega shield, serving as 
 </div>
 
 
+<h3>Video</h3>
 
+{% include video.liquid path="assets/video/pexels-engin-akyurt-6069112-960x540-30fps.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
 
