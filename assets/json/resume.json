@@ -145,12 +145,13 @@
   "references": [
   {
     "name": "Jan Østergaard",
-    "position": "Responisple for mechanical produktion",
-    "company": "MicroLab",
-    "email": "ml@mikrolab.dk",
-    "phone": "+45 30 54 45 72",
-    "relationship": "Former supervisor at MicroLab",
-    "letter": "/assets/pdf/Recommendation from microlab.pdf"
+    "keywords": [
+    "position: Responisple for mechanical produktion",
+    "company: MicroLab",
+    "email: ml@mikrolab.dk",
+    "phone: +45 30 54 45 72",
+    "relationship: Former supervisor at MicroLab"
+    ]
   }
 ]
 }
