@@ -87,4 +87,4 @@ The PCB is customed designed in KiCAD specifically as an Arduino Mega shield, se
 <h3>Video representation</h3>
 The video below shows the prototype developed during our bachelor project. Since then, numerous improvements and upgrades have been made across the mechanical, electrical, and software components. The development process is ongoing.
 
-{% include video.liquid path="https://www.youtube.com/watch?v=FwmrRA-Mt2s" class="img-fluid rounded z-depth-1" %}
+{% include video.liquid path="https://www.youtube.com/embed/FwmrRA-Mt2s" class="img-fluid rounded z-depth-1" %}
