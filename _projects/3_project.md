@@ -17,6 +17,11 @@ This is one of my latest proejects. I have been tasked to make some mechanical a
 <h3>Design overview</h3>
 With a very limit budget i had to make a more regid design for the mounting of the electrical box (camera, PCB, Rasperry Pi ect. ) and the background plate as testing revilled it is vounable to wind. Furtermore i was tasked to integrate the modem, so the device could be accessed remotely - in this proces i also made changed to the electronic wiring and added proteccting against roddens for the cables. 
 
+My contributions: 
+- Structrual changes
+- Modembox
+- Cable magement & Protection
+
 Below you will find illustraion & a small walkthrough of the areas where improvements on the design has been made. 
 
 <div class="row">
@@ -43,4 +48,25 @@ To acount for the vibration and other factors that may be caused by the wind whe
     The device when coponents is packed. Only the structual parts at the top of the case remains. 
 </div>
 
-<h5>Modem</h5>
+<h5>Modem box</h5>
+The modem enclosure needed to be IP-rated while maintaining compatibility with the existing construction to minimize the need for redesign. A Schneider box was selected for its size and protection class, and the modem was securely mounted using custom laser-cut plates.
+
+Additionally, the customer requested a quick-release solution, allowing the modem to be detached and placed, for example, on a pole up to one meter away. To accommodate this, custom 3D-printed mounts were designed and integrated into both the modem box and the backboard. This allows the enclosure to remain securely fixed during operation while still being easy to remove when needed.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/2_project/5.jpg" title="Link A" class="img-fluid rounded z-depth-1 custom-img" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5_project/6.jpg" title="Link B" class="img-fluid rounded z-depth-1 custom-img" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/6_project/6.jpg" title="Link B" class="img-fluid rounded z-depth-1 custom-img" %}
+    </div>
+</div>
+<div class="caption">
+    Left: A transparent view of the modem box Middel: Placement and quick fixture Right: Fixture part on modem box.
+</div>
+
+
+<h5>Cable magement & Protection</h5>
