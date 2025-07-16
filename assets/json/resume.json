@@ -5,7 +5,7 @@
     "image": "",
     "email": "sander.kragelund.christensen+cv@gmail.com",
     "url": "https://SanderKC.github.io",
-    "summary": "bla bla bla bla",
+    "summary": "I’m a 26-year-old with a strong passion for mechatronics, robotics, and electronics. My interest in these fields began well before my academic studies and has continued to grow ever since. This passion made it a natural choice to pursue a specialization in integrated product development and mechatronic systems. ",
     "location": {
       "region": "Midtjylland",
       "countryCode": "DK"
@@ -63,6 +63,11 @@
       "date": "2018-11",
       "issuer": "Dansk Studie Center",
       "icon": ""
+    },
+    {
+      "name": "Arbejdsmiljø og sikkerhed ved svejsning og termisk skæring -§ 17",
+      "issuer": "ArbejdsmiljøEksperten",
+    "date": "2021-04-16"
     }
   ],
   "skills": [
@@ -121,16 +126,31 @@
     }
 
   ],
-  "interests": [
-    {
-      "name": "fun",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "funfun"
-      ]
-    }
-  ],
+ "interests": [
+  {
+    "name": "Woodworking",
+    "icon": "fa-solid fa-tag",
+    "keywords": [
+      "I have a strong passion for designing and building my own furniture for both indoor and outdoor use. I particularly enjoy the creative design process and the satisfaction of bringing my ideas to life."
+    ]
+  },
+  {
+    "name": "Outdoor",
+    "icon": "fa-solid fa-camera",
+    "keywords": [
+      "I enjoy spending time outdoors and immersing myself in nature. My fiancée and I have converted our car into a microcamper, allowing us to travel frequently—embracing a minimalist lifestyle. Waking up to a mountain view or by a quiet lakeside is an experience that no hotel can truly match"
+    ]
+  }
+],
   "references": [
-
-  ]
+  {
+    "name": "Jan Østergaard",
+    "position": "Responisple for mechanical produktion",
+    "company": "MicroLab",
+    "email": "ml@mikrolab.dk",
+    "phone": "+45 30 54 45 72",
+    "relationship": "Former supervisor at MicroLab",
+    "letter": "/assets/pdf/Recommendation from microlab.pdf"
+  }
+]
 }
