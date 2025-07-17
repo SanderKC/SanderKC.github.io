@@ -59,7 +59,7 @@
   ],
   "certificates": [
     {
-      "name": "Communication & Personal development",
+      "name": "<a href='/assets/pdf/§17.pdf' target='_blank'>Arbejdsmiljø og sikkerhed ved svejsning og termisk skæring -§ 17</a>",
       "date": "2018-11",
       "issuer": "Dansk Studie Center",
       "icon": ""
@@ -145,7 +145,7 @@
 "references": [
   {
     "name": "Jan Østergaard",
-    "reference": "Former supervisor at MicroLab<br>Responsible for mechanical production at MicroLab<br>Email: ml@mikrolab.dk<br>Phone: +45 30 54 45 72<br><a href='/assets/pdf/Recommendation.pdf' target='_blank'>View Recommendation Letter (PDF)</a>"
+    "reference": "Former supervisor at MicroLab<br>Responsible for mechanical production<br>Email: ml@mikrolab.dk<br>Phone: +45 30 54 45 72<br><a href='/assets/pdf/Recommendation.pdf' target='_blank'>View Recommendation Letter (PDF)</a>"
   }
 ]
 }
