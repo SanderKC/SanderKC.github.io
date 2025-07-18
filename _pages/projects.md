@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: This page contains my still growing collection of projects both professional and personal 
+description: This page contains my still growing collection of projects both professional and personal.
 nav: true
 nav_order: 1
 horizontal: false
@@ -10,7 +10,7 @@ display_categories:
   - Work
   - Fun
   - Woodworking 
-  - Bettie
+  - Microcamper
 ---
 
 <!-- pages/projects.md -->

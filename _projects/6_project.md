@@ -11,7 +11,7 @@ toc:
   sidebar: left
 ---
 
-<h3>Introduktion</h3>
+<h3>Introduction</h3>
 This is an upgrate of existing prototype for education in the course MEA (Metrology, Electronics and Automation). In the teacher assistant team we were tasked to modify 60 small windtunnels to acomedate for a switch in hardware. The task was to make it compatable with a Analog Discovery 3 instead of the preveious myDay. 
 
 My main role in this project was project mangement, 3D-printing and assembly of the final design. 

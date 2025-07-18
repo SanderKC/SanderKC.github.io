@@ -9,6 +9,10 @@ related_publications: false
 date: 2024-11-30
 ---
 
+<h3>Introduction</h3>
+This project was developed upon request for use in the MEA course as an educational tool in metrology. 
+To this day i have build 16 of these weights & as well as a storage unit and the nessary calibration weight for the excersices. 
+
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
     <div class="mx-auto" style="max-width: 400px;">
@@ -19,10 +23,6 @@ date: 2024-11-30
 <div class="caption">
     The final design.
 </div>
-
-<h3>Introduction</h3>
-This project was developed upon request for use in the MEA course as an educational tool in metrology. 
-To this day i have build 16 of these weights & as well as a storage unit and the nessary calibration weight for the excersices. 
 
 The system is powered by an Arduino Nano, with a custom PCB simplifying the electronic circuit.
 Key components include:
